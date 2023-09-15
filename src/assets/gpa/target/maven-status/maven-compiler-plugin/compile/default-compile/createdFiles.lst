@@ -1,0 +1,11 @@
+cuz\gpa\model\course.class
+cuz\gpa\Service\StudentServiceImpl.class
+cuz\gpa\scoreController.class
+cuz\gpa\courseController.class
+cuz\gpa\Service\studentService.class
+cuz\gpa\mapper\scoreMapper.class
+cuz\gpa\Result.class
+cuz\gpa\model\score.class
+cuz\gpa\Page\QuarryPageParam.class
+cuz\gpa\Page\MybatisPlusConfig.class
+cuz\gpa\mapper\courseMapper.class
